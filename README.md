@@ -1,1 +1,2 @@
-# Automation-testing-using-python
+# GRIP
+Automation testing using python
